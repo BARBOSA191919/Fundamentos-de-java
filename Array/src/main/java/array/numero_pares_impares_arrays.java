@@ -1,6 +1,6 @@
 package array;
 import java.util.Scanner;
-// realiza un programa que pida 6 numeros enteros y queluego muestre esso 
+// realiza un programa que pida 6 numeros enteros y que luego muestre esso 
 //numeros junto con la palabra "par" o "impar" segun proceda.
 public  class numero_pares_impares_arrays {
        public static void  main(String[]args ) {
